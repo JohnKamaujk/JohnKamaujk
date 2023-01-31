@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnkamaujk" alt="johnkamaujk" /></a> </p>
 
-- 🔭 I’m currently working on [TasteBite Recipe sharing app](https://github.com/JohnKamaujk/Tastebite-Recipe-App)
+- 🔭 I’m currently working on creating APIs with express(https://images.pexels.com/photos/6424589/pexels-photo-6424589.jpeg?auto=compress&cs=tinysrgb&w=600)
 
 - 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **Javascript,Reactjs,Ruby on Rails,PHP**
+- 💬 Ask me about **Javascript,MERN stack,Ruby on Rails,PHP**
 
 - 📫 How to reach me **johnjkkamau@gmail.com**
 
