@@ -1,7 +1,7 @@
 ### Hi there 👋, Thank you for stopping by 😀
 
 
-- 🔭 I’m currently working on [Talk-hub](https://github.com/JohnKamaujk/talk-hub), a dynamic chat application
+- 🔭 I’m currently working on [CodeHaven](https://github.com/JohnKamaujk/CodeHaven)
 - 🌱 I’m currently learning how to take it easy.
 - 👯 I’m looking to collaborate on any MEARN stack project
 - 🤔 I’m looking for help with links to conferences I can give talks and techevents I can attend.
