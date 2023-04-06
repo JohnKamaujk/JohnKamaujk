@@ -1,8 +1,5 @@
 ### Hi there 👋, Thank you for stopping by 😀
 
-<img align="left" height="200" width="300" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif"/>
-
-
 - 🔭 I’m currently working on [CodeHaven](https://github.com/JohnKamaujk/CodeHaven)
 - 🌱 I’m currently learning how to take it easy.
 - 👯 I’m looking to collaborate on any MEARN stack project
