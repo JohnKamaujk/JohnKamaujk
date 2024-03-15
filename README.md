@@ -16,22 +16,28 @@
 ```javascript
 const johnKamau = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["JavaScript", "Python", "Ruby"],
+    askMeAbout: [, "tech", "web development", "app development", "photography", "music"],
     technologies: {
+        frontEnd: ["React", "Vue.js", "Next.js"],
         backEnd: {
-            js: ["Node", "Fastify", "Express"],
+            js: ["Node.js", "Fastify", "Express.js", "Nest.js"],
+            python: ["Django"],
+            ruby: ["Ruby on Rails (ROR)"]
         },
         mobileApp: {
             native: ["Android Development"]
         },
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        databases: ["MongoDB", "MySQL", "SQLite"],
+        misc: ["Firebase", "Socket.IO", "Selenium", "OpenCV", "PHP", "SuiteApp"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "No Focus point at this time",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    architecture: ["Serverless Architecture", "Progressive Web Applications", "Single Page Applications"],
+    currentFocus: "Exploring the depths of tech while sipping on a cup of coffee",
+    funFacts: [
+        "Most maps of the world are wrong.",
+        "Earth drifts away from the sun by about 2.36 inches (6 centimeters) per year due to the sun's mass loss."
+    ]
 };
 ```
 
