@@ -26,7 +26,7 @@ const johnKamau = {
             ruby: ["Ruby on Rails (ROR)"]
         },
         mobileApp: {
-            cross-platform: ["React Native"],
+            crossPlatform: ["React Native"],
             native: ["Android Development"]
         },
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
