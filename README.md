@@ -16,13 +16,13 @@
 ```javascript
 const johnKamau = {
     pronouns: "He" | "Him",
-    code: ["JavaScript", "Python", "Ruby"],
-    askMeAbout: [, "tech", "web development", "app development", "photography", "music"],
+    code: ["JavaScript", "TypeScript", "Python"],
+    askMeAbout: [, "tech", "software development", "photography", "music"],
     technologies: {
-        frontEnd: ["React", "Vue.js", "Next.js"],
+        frontEnd: ["React", "Next.js","Vue.js"],
         backEnd: {
             js: ["Node.js", "Fastify", "Express.js", "Nest.js"],
-            python: ["Django"],
+            python: ["Django", "Flask],
             ruby: ["Ruby on Rails (ROR)"]
         },
         mobileApp: {
