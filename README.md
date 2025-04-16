@@ -22,7 +22,7 @@ const johnKamau = {
         frontEnd: ["React", "Next.js","Vue.js"],
         backEnd: {
             js: ["Node.js", "Express.js", "Nest.js"],
-            python: ["FastAPI", "Django", "Flask],
+            python: ["FastAPI", "Django", "Flask"],
             ruby: ["Ruby on Rails (ROR)"]
         },
         mobileApp: {
