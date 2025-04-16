@@ -21,17 +21,17 @@ const johnKamau = {
     technologies: {
         frontEnd: ["React", "Next.js","Vue.js"],
         backEnd: {
-            js: ["Node.js", "Fastify", "Express.js", "Nest.js"],
-            python: ["Django", "Flask],
+            js: ["Node.js", "Express.js", "Nest.js"],
+            python: ["FastAPI", "Django", "Flask],
             ruby: ["Ruby on Rails (ROR)"]
         },
         mobileApp: {
-            crossPlatform: ["React Native"],
-            native: ["Android Development"]
+            crossPlatform: ["React Native", "Flutter"],
+            native: ["Kotlin"]
         },
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
         databases: ["MongoDB", "MySQL", "SQLite"],
-        misc: ["Firebase", "Socket.IO", "Selenium", "OpenCV", "PHP", "SuiteApp"]
+        misc: ["Firebase", "Socket.IO", "Selenium", "OpenAI"]
     },
     architecture: ["Serverless Architecture", "Progressive Web Applications", "Single Page Applications"],
     currentFocus: "Exploring the depths of tech while sipping on a cup of coffee",
